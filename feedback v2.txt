@@ -1,0 +1,13 @@
+-voting.
+	so many things(project create, back fund, milestone releasing) are depending on voting.
+	*pros
+		1, we can prevent fake and increase reputation of stability.
+		2, we can move social communities to our dapp making famous.
+	*cons
+		1, this is increasing complication.
+		2, we need to think about the future when our dapp get so famous
+			in this case, community members will be so busy, and the more our project get famous and increased, the more community members needed and even though need to split out them (let's say 10 community members per 1 project.
+
+
+-voting system.
+	we need to make gravity(weight) in each backers along the funds that they are willing to deposit. (like pos(proof of stake))

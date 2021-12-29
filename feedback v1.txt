@@ -1,0 +1,8 @@
+1, so long loading time.
+2, wallet (when creating project and..) is not opened anymore if failed for the first time.
+3, creating project is giving 400 error alert.
+4, when creating need to show required field to users.
+5, ust inputing is allowing characters, it would be good to make it for number input field
+6, clicking button is showing something strange square.
+7, "Back WEFUND": I think the description of this button is not so clear.
+8, back fund is also giving 400 error alert.
